@@ -1,6 +1,6 @@
 # SmartTravel - Plataforma de Viajes Inteligente
 
-<img src="https://github.com/SmartTravel-Hackathon/.github/assets/95001823/f6b6cf98-a82b-4f12-a04b-6254132b532f" width="128" height="169">
+<img src="https://github.com/SmartTravel-Hackathon/.github/blob/main/Logo.png?raw=true" width="128" height="169">
 
 
 ## Descripción del Proyecto
