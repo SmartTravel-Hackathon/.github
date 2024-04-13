@@ -1,4 +1,4 @@
-# SmartTravel - Plataforma de Viajes Inteligente
+# Equipo 8 -> SmartTravel - Plataforma de Viajes Inteligente
 
 <img src="https://github.com/SmartTravel-Hackathon/.github/blob/main/Logo.png?raw=true" width="128" height="169">
 
